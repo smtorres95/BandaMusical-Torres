@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.logo{
+    border-radius: 50%;
+}
+
+.textColor{
+    color: #fff;
+}
+
+.bg-us{
+    background-image: url(https://www.sabervivirtv.com/medio/2022/02/14/se-confirma-que-celebrar-eventos-multitudinarios-es-seguro_5cf15d1d_1280x720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.imgTienda{
+    height: 23rem;
+    width: 18rem;
+}
